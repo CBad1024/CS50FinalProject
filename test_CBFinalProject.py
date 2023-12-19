@@ -1,4 +1,4 @@
-from CBFinalProject import parse, check_inequality, check_equality, check_power, check_divisor
+from project import parse, check_inequality, check_equality, check_power, check_divisor
 import pytest
 
 # Check Parser
